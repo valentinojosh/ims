@@ -1,6 +1,6 @@
 {
   "name": "ims",
-  "version": "1.0.0","homepage": "https://valentinojosh.github.io/ims/clientReactJS",
+  "version": "1.0.0","homepage": "https://valentinojosh.github.io/ims/clientReactJS/build",
   "dependencies": {
     "body-parser": "^1.19.0",
     "dotenv": "^16.0.0",
