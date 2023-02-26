@@ -10,6 +10,9 @@ Incident management web application developed for a local business in Aurora, Il
 
 ### Dependencies
 
+* react-router ^6.2.1
+* react-router-dom ^6.2.1
+* dotenv: ^16.0.0
 * MySQL ^2.18.1
 * Express ^4.17.1
 * body-parser ^2.18.1
