@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d3f1f1b-8812-47e7-851e-caf7a3e94ba3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/build/static/css/main.ae4b8633.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/css/main.ae4b8633.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/js/main.9bda7bcd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/js/main.9bda7bcd.js.LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/js/main.9bda7bcd.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/asset-manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/css/main.7b945da0.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/css/main.7b945da0.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.40ca6d94.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.40ca6d94.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.40ca6d94.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/.eslintcache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/9.pack" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/9.pack" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/index.pack" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/index.pack" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/default-development/index.pack.old" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/index.pack.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
