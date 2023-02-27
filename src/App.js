@@ -25,7 +25,7 @@ import ViewEmployeeInjury from "./tables/viewEmployeeInjuryReport"
 function App() {
   return (
    <div>
-     <BrowserRouter basename={process.env.PUBLIC_URL}>
+     <BrowserRouter>
       <div className="App">
         <div className="content">
           <Routes>

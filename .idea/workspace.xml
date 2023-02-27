@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d3f1f1b-8812-47e7-851e-caf7a3e94ba3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/build/static/js/main.e4467bbc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/js/main.e4467bbc.js.LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/static/js/main.e4467bbc.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/asset-manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.33d4b1b2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.33d4b1b2.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.33d4b1b2.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/.eslintcache" afterDir="false" />
-    </list>
+    <list default="true" id="0d3f1f1b-8812-47e7-851e-caf7a3e94ba3" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,7 +72,7 @@
       <workItem from="1677407634044" duration="3791000" />
       <workItem from="1677415877399" duration="156000" />
       <workItem from="1677416048165" duration="1057000" />
-      <workItem from="1677476792975" duration="1439000" />
+      <workItem from="1677476792975" duration="1659000" />
     </task>
     <servers />
   </component>
