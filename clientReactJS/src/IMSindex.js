@@ -127,7 +127,7 @@ const LoginPage = () => {
                         Note <span style={tooltipIconStyle}>ℹ️</span>
                     </button>
                     <div style={employeeTooltip ? tooltipVisibleStyle : tooltipContentStyle}>
-                        Please note: this is the front end prototype, server is currently not deployed and auth functions are disabled
+                        Please note: This is for demo purposes only. Server is not deployed and auth functions are disabled. For full demo please reach out
                     </div>
                 </div>
             </div>
