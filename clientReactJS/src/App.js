@@ -26,7 +26,7 @@ import './App.css';
 
 function App() {
     return (
-        <BrowserRouter basename="/ims">
+        <BrowserRouter> {/* Removed basename since you're no longer on GitHub Pages */}
             <div className="App">
                 <div className="content">
                     <Routes>
